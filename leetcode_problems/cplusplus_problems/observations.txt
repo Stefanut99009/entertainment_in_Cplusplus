@@ -1,0 +1,2 @@
+These solutions are tested on leetcode
+I write the main manually
